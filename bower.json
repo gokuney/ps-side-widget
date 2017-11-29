@@ -1,0 +1,27 @@
+{
+  "name": "responsive-grid-sidebar",
+  "authors": [
+    "Priyanshu Sharma <gokuney@gmail.com>"
+  ],
+  "description": "Originally for Colorx, can be used with any project",
+  "main": "index.html",
+  "keywords": [
+    "Plugin"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.2.1",
+    "gsap": "^1.20.3",
+    "bootstrap": "^3.3.7",
+    "malihu-custom-scrollbar-plugin": "^3.1.5"
+  }
+}
