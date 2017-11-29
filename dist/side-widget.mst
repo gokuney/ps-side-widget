@@ -1,0 +1,28 @@
+<div id="side-widget">
+
+	<div id="side-widget-section-wrapper">
+		{{#data}}
+		<div class="side-widget-section">
+			
+			<div class="side-widget-section-wrapper">
+				<div class="side-widget-icon">
+					<img src="{{icon}}" alt="icon" />
+				</div>
+				<div class="side-widget-label">
+					{{label}}
+				</div>
+			</div>
+		</div>
+		{{/data}}
+	</div>
+
+</div>
+
+<div id="side-widget-data-container">
+	<div id="side-widget-data-container-close">x</div>
+	
+	<div id="side-widget-data-main-content">
+		
+	</div>
+
+</div>
